@@ -131,8 +131,8 @@ include_once("connection.php");
                     <div class="single-product-widget">
                         <h2 class="product-wid-title">Bestseller</h2>
                         <div class="single-wid-product">
-                            <a href="?page=details&&id=Normal%2012t"><img src="img/Gogeta.png" alt="" class="product-thumb"></a>
-                            <h2><a href="?page=details&&id=Normal%2012t">Figure_Vegito</a></h2>
+                            <a href="?page=details&&id=DB_GOG"><img src="img/Gogeta.png" alt="" class="product-thumb"></a>
+                            <h2><a href="?page=details&&id=DB_GOG">Figure_Vegito</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
@@ -145,8 +145,8 @@ include_once("connection.php");
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="?page=details&&id=I5"><img src="img/itachi.jpg" alt="" class="product-thumb"></a>
-                            <h2><a href="?page=details&&id=I5">Figure_Itachi</a></h2>
+                            <a href="?page=details&&id=NA_ITA"><img src="img/itachi.jpg" alt="" class="product-thumb"></a>
+                            <h2><a href="?page=details&&id=NA_ITA">Figure_Itachi</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
@@ -159,8 +159,8 @@ include_once("connection.php");
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="?page=details&&id=HDDS1"><img src="img/Luffy.jpg" alt="" class="product-thumb"></a>
-                            <h2><a href="?page=details&&id=HDDS1">Figure_Luffy</a></h2>
+                            <a href="?page=details&&id=OP_LUF"><img src="img/Luffy.jpg" alt="" class="product-thumb"></a>
+                            <h2><a href="?page=details&&id=OP_LUF">Figure_Luffy</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
@@ -178,8 +178,8 @@ include_once("connection.php");
                     <div class="single-product-widget">
                         <h2 class="product-wid-title">Recently Viewed</h2>
                         <div class="single-wid-product">
-                            <a href="?page=details&&id=High%2013th"><img src="img/Shanks.jpg" alt="" class="product-thumb"></a>
-                            <h2><a href="?page=details&&id=High%2013th">Figure_Shanks</a></h2>
+                            <a href="?page=details&&id=OP_SKS"><img src="img/Shanks.jpg" alt="" class="product-thumb"></a>
+                            <h2><a href="?page=details&&id=OP_SKS">Figure_Shanks</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
@@ -192,8 +192,8 @@ include_once("connection.php");
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="?page=details&&id=16RAMD4"><img src="img/Broly.jpg" alt="" class="product-thumb"></a>
-                            <h2><a href="?page=details&&id=16RAMD4">Figure_Broly</a></h2>
+                            <a href="?page=details&&id=DB_BRO"><img src="img/Broly.jpg" alt="" class="product-thumb"></a>
+                            <h2><a href="?page=details&&id=DB_BRO">Figure_Broly</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
@@ -206,8 +206,8 @@ include_once("connection.php");
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="?page=details&&id=4080"><img src="img/NarutoX3.jpg" alt="" class="product-thumb"></a>
-                            <h2><a href="?page=details&&id=4080">Figure_Naruto</a></h2>
+                            <a href="?page=details&&id=NA_NAX3"><img src="img/NarutoX3.jpg" alt="" class="product-thumb"></a>
+                            <h2><a href="?page=details&&id=NA_NAX3">Figure_Naruto</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
@@ -225,8 +225,8 @@ include_once("connection.php");
                     <div class="single-product-widget">
                         <h2 class="product-wid-title">Latest</h2>
                         <div class="single-wid-product">
-                            <a href="?page=details&&id=Future%2012t"><img src="img/Mabu.jpg" alt="" class="product-thumb"></a>
-                            <h2><a href="?page=details&&id=Future%2012t">Figure_Mabu</a></h2>
+                            <a href="?page=details&&id=DB_MAB"><img src="img/Mabu.jpg" alt="" class="product-thumb"></a>
+                            <h2><a href="?page=details&&id=DB_MAB">Figure_Mabu</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
@@ -239,8 +239,8 @@ include_once("connection.php");
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="?page=details&&id=CCM"><img src="img/Robin.jpg" alt="" class="product-thumb"></a>
-                            <h2><a href="?page=details&&id=CCM">Figure_Robin</a></h2>
+                            <a href="?page=details&&id=OP_ROB"><img src="img/Robin.jpg" alt="" class="product-thumb"></a>
+                            <h2><a href="?page=details&&id=OP_ROB">Figure_Robin</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
@@ -253,8 +253,8 @@ include_once("connection.php");
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="?page=details&&id=SSD1TB"><img src="img/sasuke.jpg" alt="" class="product-thumb"></a>
-                            <h2><a href="?page=details&&id=SSD1TB">Figure_Sasuke</a></h2>
+                            <a href="?page=details&&id=NA_SAS"><img src="img/sasuke.jpg" alt="" class="product-thumb"></a>
+                            <h2><a href="?page=details&&id=NA_SAS">Figure_Sasuke</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
